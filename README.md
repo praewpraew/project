@@ -16,6 +16,7 @@ body {font-family: "Open Sans"}
                 <div class="row">
                     <div class="col-md-12">
                         <a href="#">
+			     <img class="w3-image" src="logo.png" alt="logo">
                             <img src="runway.png" alt="" />
                              <img class="w3-image" src="01.png" alt="Fashion Blog">
 			 
