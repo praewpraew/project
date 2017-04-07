@@ -28,7 +28,7 @@ body {font-family: "Open Sans"}
       
              <div style="display:inlne-block;width:50%;float:left;">
                    
-                   <p style="padding-top:10px;padding-left:15px;"><a href="#home" class="scrollclick"><img src="image/logo1.png" height="25px"></a>
+                   <p style="padding-top:10px;padding-left:15px;"><a href="#home" class="scrollclick"><img src="logo.png"></a>
                       </p>
              </div>
                <div style="display:inlne-block;width:50%;float:left;">
