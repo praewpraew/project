@@ -87,26 +87,7 @@ body {font-family: "Open Sans"}
         </div>
 
 
-</div>
-             
-            <div class="inmenu">
-            
-          <a href="#web_design" class="scrollclick">รับเขียนเว็บไซต์</a>       
-                    <a href="#portfolio" class="scrollclick">ผลงานที่ผ่านมา</a>   
-                    
-                  
-                       
-                    <a href="#package" class="scrollclick">แพ็คเกจ</a>  
-                    
-                       
-                
-                    <a href="#contact" class="scrollclick">ติดต่อเรา</a>
-                     
-            </div>
-            
-               
-      </div>
-  
+
 
 
 
