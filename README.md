@@ -23,15 +23,6 @@ body {font-family: "Open Sans"}
             </div>
 
 
- <!-- Image header -->
-  <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="01.png" alt="Fashion Blog" >
-    <div class="w3-display-left w3-padding-large">
-      <h1 class="w3-text-white">Jane's</h1>
-      <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
- 
-    </div>
-  </header>
 
 
 </body>
