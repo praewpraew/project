@@ -18,23 +18,45 @@ body {font-family: "Open Sans"}
                         <a href="#">
                             <img src="runway.png" alt="" />
                              <img class="w3-image" src="01.png" alt="Fashion Blog">
+			 
                         </a>
                     </div>
                 </div>
             </div>
  <!-- Image header -->
+ <div class="menumobile">
+      
+             <div style="display:inlne-block;width:50%;float:left;">
+                   
+                   <p style="padding-top:10px;padding-left:15px;"><a href="#home" class="scrollclick"><img src="image/logo1.png" height="25px"></a>
+                      </p>
+             </div>
+               <div style="display:inlne-block;width:50%;float:left;">
+               
+               <p align="right" style="padding-top:10px;padding-right:15px;"><span class="shm"><i class="fa fa-bars"></i></span></p>
+               </div>
+               
+               <div style="clear:both;"></div>
+             
+            <div class="inmenu">
+            
+          <a href="#web_design" class="scrollclick">รับเขียนเว็บไซต์</a>       
+                    <a href="#portfolio" class="scrollclick">ผลงานที่ผ่านมา</a>   
+                    
+                  
+                       
+                    <a href="#package" class="scrollclick">แพ็คเกจ</a>  
+                    
+                       
+                
+                    <a href="#contact" class="scrollclick">ติดต่อเรา</a>
+                      <a href="http://www.webunique.in.th/blog/" >บทความ</a>
+            </div>
+            
+               
+      </div>
   
-<div class="collapse navbar-collapse navbar col-md-8 col-md-offset-2" id="bs-example-navbar-collapse-1">
-<ul class="nav navbar-nav">
-<li class="active"><a href="/gallery">Gallery</a></li>
-<li><a href="/photographers">Photographers</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="http://lifeofvids.com" target="_blank">Free videos</a></li>
-<li><a href="/upload">Upload<i class="icon-nuage_upload"></i><i class="icon-fleche_upload"></i></a></li>
-	</ul>
-	<div class="tablet-burger">
-	<span class="bars"></span>
-	</div>
+
 
 
 
