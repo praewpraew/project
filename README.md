@@ -21,14 +21,6 @@ body {font-family: "Open Sans"}
                     </div>
                 </div>
             </div>
-<div class="ContentPlaceHolder" id="contentPlaceHolder1">
-                    <div class="container">
-                        <div class="row">
-                                        <div id="section2" class="col-sm-2 ArticleList">
-
-<h1><a href="/">CHEEZE - LOOKER</a></h1>
-                                        </div>
-                                        <div id="section1" class="col-sm-6 StaticMenu">
 
 
 <div class="w3-content" style="max-width:1600px">
