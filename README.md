@@ -17,15 +17,24 @@ body {font-family: "Open Sans"}
                     <div class="col-md-12">
                         <a href="#">
                             <img src="runway.png" alt="" />
+                             <img class="w3-image" src="01.png" alt="Fashion Blog">
                         </a>
                     </div>
                 </div>
             </div>
  <!-- Image header -->
-  <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="01.png" alt="Fashion Blog">
   
-  </header>
+<div class="collapse navbar-collapse navbar col-md-8 col-md-offset-2" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li class="active"><a href="/gallery">Gallery</a></li>
+<li><a href="/photographers">Photographers</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="http://lifeofvids.com" target="_blank">Free videos</a></li>
+<li><a href="/upload">Upload<i class="icon-nuage_upload"></i><i class="icon-fleche_upload"></i></a></li>
+	</ul>
+	<div class="tablet-burger">
+	<span class="bars"></span>
+	</div>
 
 
 
