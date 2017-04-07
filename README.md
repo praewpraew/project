@@ -17,6 +17,14 @@ body {font-family: "Open Sans"}
                     <div class="col-md-12">
                         <a href="#">
 			     <img class="w3-image" src="logo.png" alt="logo">
+			     <div class='not-hidden' id='navigation'>
+  <ul>
+    <li><a href="/HOME">HOME</a></li>
+    <li><a href="/ABOUT" id="quick_sign_in_button">ABOUT US</a></li>
+    <li><a href="/PHOTO">PHOTO</a></li>
+  </ul>
+</div>
+			     
                             <img src="runway.png" alt="" />
                              <img class="w3-image" src="01.png" alt="Fashion Blog">
 			 
@@ -24,14 +32,7 @@ body {font-family: "Open Sans"}
                     </div>
                 </div>
             </div>
- <!-- Image header -->
-<div class='not-hidden' id='navigation'>
-  <ul>
-    <li><a href="/HOME">HOME</a></li>
-    <li><a href="/ABOUT" id="quick_sign_in_button">ABOUT US</a></li>
-    <li><a href="/PHOTO">PHOTO</a></li>
-  </ul>
-</div>
+
 
 
 
