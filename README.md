@@ -24,19 +24,13 @@ body {font-family: "Open Sans"}
                 </div>
             </div>
  <!-- Image header -->
- <button class="MenuToggleButton" type="button" style="display: none;">&#9776;<span> Menu</span></button>
-        <div class="MainNavigationWrapper">
-            <ul class="MainNavigation">
-                        <li>
-                                <a href="/" class="ActiveMenu ">HOME</a>
-
-                        </li>
-                       
-                        <li>
-<a class="" href="/ABOUT-US/22/Would-like-to-know-more-about-us--Do-not-want-to-miss-out-any-trend-that-is-coming--Then-please-subscribe-with-us-">ABOUT US</a>
-                        </li>
-                        
-        </div>
+<div class='not-hidden' id='navigation'>
+  <ul>
+    <li><a href="/HOME">HOME</a></li>
+    <li><a href="/ABOUT" id="quick_sign_in_button">ABOUT US</a></li>
+    <li><a href="/PHOTO">PHOTO</a></li>
+  </ul>
+</div>
 
 
 
