@@ -50,7 +50,7 @@ body {font-family: "Open Sans"}
                        
                 
                     <a href="#contact" class="scrollclick">ติดต่อเรา</a>
-                      <a href="http://www.webunique.in.th/blog/" >บทความ</a>
+                     
             </div>
             
                
