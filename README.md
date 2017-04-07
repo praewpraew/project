@@ -21,6 +21,11 @@ body {font-family: "Open Sans"}
                     </div>
                 </div>
             </div>
+ <!-- Image header -->
+  <header class="w3-display-container w3-wide" id="home">
+    <img class="w3-image" src="01.png" alt="Fashion Blog">
+  
+  </header>
 
 
 
